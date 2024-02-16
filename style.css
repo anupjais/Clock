@@ -1,0 +1,43 @@
+/*h1{
+	color: blueviolet;
+}*/
+*{
+	height: 100vh;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.mdiv{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	display: flex;
+/*	align-items: center;*/
+/*	justify-content: center;*/
+/*	background-image: url("https://c0.wallpaperflare.com/preview/944/356/969/concept-construction-page-site.jpg");*/
+	background-image: url("https://wallpapers.com/images/hd/iron-man-in-the-dark-1ikpgsjkoayh9equ.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+/*	background-color: green;*/
+}
+.container{
+	height: 100px;
+	width: 250px;
+	background-color: gray;
+	margin-left: 20%;
+	margin-top: 100px;
+	background-color: transparent;
+	background: blur(20px);
+	color: yellow;
+	font-weight: 100px;
+}
+#tm{
+/*	font-weight: 1100px;*/
+}
+#dy{
+	font-weight: 16px;
+}
+/*.time{
+	color: white;
+}*/
