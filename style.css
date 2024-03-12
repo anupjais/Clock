@@ -22,21 +22,20 @@
 /*	background-color: green;*/
 }
 .container{
-	height: 100px;
+/*	height: 100px;*/
 	width: 250px;
-	background-color: gray;
+/*	background-color: gray;*/
 	margin-left: 20%;
 	margin-top: 100px;
 	background-color: transparent;
-	background: blur(20px);
 	color: yellow;
-	font-weight: 100px;
+
 }
 #tm{
-/*	font-weight: 1100px;*/
+	font-size: 100px;
 }
 #dy{
-	font-weight: 16px;
+	font-size: 80px;
 }
 /*.time{
 	color: white;
